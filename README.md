@@ -1,6 +1,7 @@
 # Hi, I'm Marcos:
 <img align="right" src="./gato-1.jpg" height="120"/>
-<p align="left">
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJnYTJxd2J2Y2hyZzUwYjlyemlpdHhldmF2aGZvbHc2YWIyNzhxYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif" height="120" />
+<p align="center">
 👨🏽‍💻 Computer Science student at Inteli<br>
 👨🏽‍🎓 Former student at Instituto Proa<br>
 ☁ Currently a Web Developer<br>
