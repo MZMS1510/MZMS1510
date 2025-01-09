@@ -25,4 +25,9 @@ Sou uma pessoa que adora aprender e estou sempre em busca de novas tecnologias q
 ![](https://github-readme-stats.vercel.app/api?username=MZMS1510&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MZMS1510&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# ⭐Special Thanks
+<img align="center" src="#" height="200" />
+<h2 align="center"><a href="https://github.com/">Igor Sampaio</a></h2>
+<p align="center">My Buddy at Inteli, who introduced me to this new life</p>
+
 <h2 align="center">Learning is a power no one can take from us</h2>
